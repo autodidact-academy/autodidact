@@ -19,15 +19,19 @@
     <link rel="stylesheet" href="../../assets/vendor/bootstrap/bootstrap.min.css">
 
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="../../assets/vendor/icon-awesome/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="../../assets/vendor/icon-line-pro/style.css">
     <link rel="stylesheet" href="../../assets/vendor/icon-hs/style.css">
     <link rel="stylesheet" href="../../assets/vendor/icon-material/material-icons.css">
     <link rel="stylesheet" href="../../assets/vendor/animate.css">
     <link rel="stylesheet" href="../../assets/vendor/hs-megamenu/src/hs.megamenu.css">
-    <link rel="stylesheet" href="../../assets/vendor/hamburgers/hamburgers.min.css">
     <link rel="stylesheet" href="../../assets/vendor/slick-carousel/slick/slick.css">
     <link rel="stylesheet" href="../../assets/vendor/fancybox/jquery.fancybox.css">
+
+    <!-- minified files -->
+    <link rel="stylesheet" href="../../assets/vendor/hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" href="../../assets/vendor/icon-awesome/css/font-awesome.min.css">
+
 
     <!-- CSS Unify Theme -->
     <link rel="stylesheet" href="assets/css/styles.multipage-education.css">
@@ -1436,8 +1440,8 @@
                         <li class="g-py-5"><a
                                     class="u-link-v5 g-color-footer-links g-color-primary--hover g-font-size-16"
                                     href="#">Contacts</a></li>
-                        <li class="g-py-5"><a
-                                    class="u-link-v5 g-color-footer-links g-color-primary--hover g-font-size-16"
+                        <li class="g-py-5">
+                            <a class="u-link-v5 g-color-footer-links g-color-primary--hover g-font-size-16"
                                     href="#">Careers</a></li>
                         <li class="g-py-5"><a
                                     class="u-link-v5 g-color-footer-links g-color-primary--hover g-font-size-16"
